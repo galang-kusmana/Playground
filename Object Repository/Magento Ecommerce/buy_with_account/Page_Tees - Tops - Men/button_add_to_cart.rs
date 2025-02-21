@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_add_to_cart</name>
+   <tag></tag>
+   <elementGuidId>699291b4-b477-4e13-a47f-0ee3253b81ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[3]/div/div[3]/ol/li[5]/div/div/div[4]/div/div/form/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>li >> internal:has-text=&quot;Aero Daily Fitness Tee Rating: 80% 3 Reviews As low as $24.00 XSSMLXL Add to Car&quot;i >> internal:attr=[title=&quot;Add to Cart&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7413bc4c-d307-466f-a9b7-bf9a07e4f4ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to Cart</value>
+      <webElementGuid>42ad374c-32ec-4712-b83b-7f044d31cf98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[@class=&quot;products wrapper grid products-grid&quot;]/ol[@class=&quot;products list items product-items&quot;]/li[@class=&quot;item product product-item&quot;]/div[@class=&quot;product-item-info&quot;]/div[@class=&quot;product details product-item-details&quot;]/div[@class=&quot;product-item-inner&quot;]/div[@class=&quot;product actions product-item-actions&quot;]/div[@class=&quot;actions-primary&quot;]/form[1]/button[@class=&quot;action tocart primary&quot;]/span[1]</value>
+      <webElementGuid>808e0524-a1a0-4c24-9fe7-a60092c728a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[3]/div/div[3]/ol/li[5]/div/div/div[4]/div/div/form/button/span</value>
+      <webElementGuid>24c6a7bf-61c7-4f1a-987c-46c01e41a101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XL'])[5]/following::span[1]</value>
+      <webElementGuid>202036a1-94ad-4a6c-aa3c-91decb996208</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='L'])[5]/following::span[1]</value>
+      <webElementGuid>49f3f0ac-b761-4d10-b541-9e196687e70a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Wish List'])[5]/preceding::span[1]</value>
+      <webElementGuid>5400be5e-b3b2-4f45-b441-3143fb88daf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Compare'])[5]/preceding::span[2]</value>
+      <webElementGuid>db5eec36-87fc-4e60-9d61-d1fca2a85012</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/div/div/div[4]/div/div/form/button/span</value>
+      <webElementGuid>b667d423-3d83-447b-b176-b7d85aa2b726</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Add to Cart' or . = 'Add to Cart')]</value>
+      <webElementGuid>173e970d-bd1f-447c-bfff-bf6e97bbd50d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

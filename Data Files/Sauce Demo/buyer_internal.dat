@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>buyer_internal</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>f73030b5-66d5-4782-a364-4ad9c3bf5d30</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>cipete utara 12150</data>
+   <data>gandaria utara 12140</data>
+   <data>gunung none 12120</data>
+   <data>kramat pela 12130</data>
+   <data>melawai none 12160</data>
+   <data>petogogan jaya 12170</data>
+   <data>rawa barat 12180</data>
+   <data>pulo muara 12160</data>
+   <data>selong none 12110</data>
+   <data>senayan raya 12190</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>first</name>
+      <size>10</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>last</name>
+      <size>10</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>post</name>
+      <size>10</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

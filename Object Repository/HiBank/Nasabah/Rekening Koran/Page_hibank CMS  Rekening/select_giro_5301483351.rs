@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_giro_5301483351</name>
+   <tag></tag>
+   <elementGuidId>a78e808f-468e-4349-b1ce-0e3b6ad3dcb8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[3]/div/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Giro IDR5301483351Rp • • • • • • • • • •&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>112aa3fc-1717-422a-9f5f-42a7eec86304</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-rwo3vd</value>
+      <webElementGuid>42142f09-8296-44ce-9f8d-1085445b97c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Giro IDR5301483351Rp • • • • • • • • • •</value>
+      <webElementGuid>bddd7aba-a19a-4e30-8725-d015a51f7670</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;MuiBox-root css-1pbvwnm&quot;]/div[@class=&quot;css-9x1v4i&quot;]/div[@class=&quot;MuiBox-root css-y68ggl&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 css-ogpv5o&quot;]/div[@class=&quot;MuiBox-root css-1g7fbw9&quot;]/div[@class=&quot;css-rwo3vd&quot;]</value>
+      <webElementGuid>78fbc252-42fd-4335-ac20-fbfe4178057c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[3]/div/div/div/div[3]</value>
+      <webElementGuid>aeb8b8c1-8ceb-4c90-b3cb-e77cd7176db3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp • • • • • • • • • •'])[2]/following::div[1]</value>
+      <webElementGuid>33162df1-9979-4e44-abe8-ad0d35dbed73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Giro IDR'])[2]/following::div[3]</value>
+      <webElementGuid>78a74e46-178e-4d65-a482-0992efe20e5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[3]</value>
+      <webElementGuid>c527f3d6-1344-4b18-a58e-7529162bf43d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Giro IDR5301483351Rp • • • • • • • • • •' or . = 'Giro IDR5301483351Rp • • • • • • • • • •')]</value>
+      <webElementGuid>be55ec0c-ec09-49a3-8c18-dc4dd585e4bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

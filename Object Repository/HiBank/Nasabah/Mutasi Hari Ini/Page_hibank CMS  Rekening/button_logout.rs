@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_logout</name>
+   <tag></tag>
+   <elementGuidId>57e8970f-4741-4596-b620-70346ec3ac14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#ID_automation_9</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>0980ae71-49ae-4079-9dd8-6d3ef18d6724</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M12.7708 13.5625C12.6181 13.3819 12.5417 13.1771 12.5417 12.9479C12.5417 12.7188 12.6181 12.5278 12.7708 12.375L14.3125 10.8333H8.33333C8.09722 10.8333 7.89931 10.7535 7.73958 10.5938C7.57986 10.434 7.5 10.2361 7.5 10C7.5 9.76389 7.57986 9.56597 7.73958 9.40625C7.89931 9.24653 8.09722 9.16667 8.33333 9.16667H14.3125L12.7708 7.625C12.6042 7.45833 12.5208 7.26042 12.5208 7.03125C12.5208 6.80208 12.6042 6.60417 12.7708 6.4375C12.9236 6.27083 13.1146 6.1875 13.3438 6.1875C13.5729 6.1875 13.7639 6.26389 13.9167 6.41667L16.9167 9.41667C17 9.5 17.059 9.59028 17.0938 9.6875C17.1285 9.78472 17.1458 9.88889 17.1458 10C17.1458 10.1111 17.1285 10.2153 17.0938 10.3125C17.059 10.4097 17 10.5 16.9167 10.5833L13.9167 13.5833C13.7361 13.7639 13.5382 13.8438 13.3229 13.8229C13.1076 13.8021 12.9236 13.7153 12.7708 13.5625ZM4.16667 17.5C3.70833 17.5 3.31597 17.3368 2.98958 17.0104C2.66319 16.684 2.5 16.2917 2.5 15.8333V4.16667C2.5 3.70833 2.66319 3.31597 2.98958 2.98958C3.31597 2.66319 3.70833 2.5 4.16667 2.5H9.16667C9.40278 2.5 9.60069 2.57986 9.76042 2.73958C9.92014 2.89931 10 3.09722 10 3.33333C10 3.56944 9.92014 3.76736 9.76042 3.92708C9.60069 4.08681 9.40278 4.16667 9.16667 4.16667H4.16667V15.8333H9.16667C9.40278 15.8333 9.60069 15.9132 9.76042 16.0729C9.92014 16.2326 10 16.4306 10 16.6667C10 16.9028 9.92014 17.1007 9.76042 17.2604C9.60069 17.4201 9.40278 17.5 9.16667 17.5H4.16667Z</value>
+      <webElementGuid>5836278c-ec3f-4240-8621-97528f9af972</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#00697F</value>
+      <webElementGuid>cc2e57ac-4872-468f-beb1-681861024c7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ID_automation_9&quot;)/svg[@class=&quot;MuiSvgIcon-root MuiSvgIcon-fontSizeMedium a-icon icon-logout-icon custom #00697F css-113y8ld&quot;]/g[1]/path[1]</value>
+      <webElementGuid>211806e8-99ad-4256-8ae1-aa2dfa139221</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

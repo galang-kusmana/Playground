@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_195.50</name>
+   <tag></tag>
+   <elementGuidId>7c73711a-fc1f-452f-b2e4-1282acc893b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>strong > span.price</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='opc-sidebar']/div/table/tbody/tr[3]/td/strong/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;$195.50&quot;i] >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b389a4bc-cc4d-47e6-8021-181bed18ee24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>price</value>
+      <webElementGuid>5803f876-5b98-4394-916b-e9d2e356e90a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>text: getValue()</value>
+      <webElementGuid>faba87f1-8483-4e5f-abc3-cb6d70fde77a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$195.50</value>
+      <webElementGuid>fce6a310-f7a5-4fe2-8967-fe9a5ad2a073</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;opc-sidebar&quot;)/div[@class=&quot;opc-block-summary&quot;]/table[@class=&quot;data table table-totals&quot;]/tbody[1]/tr[@class=&quot;grand totals&quot;]/td[@class=&quot;amount&quot;]/strong[1]/span[@class=&quot;price&quot;]</value>
+      <webElementGuid>4219bf9f-c225-4560-b1c7-638bc4b45633</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='opc-sidebar']/div/table/tbody/tr[3]/td/strong/span</value>
+      <webElementGuid>4968351c-92b1-4882-9eb3-5331a17e4f97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Total'])[1]/following::span[1]</value>
+      <webElementGuid>064c05d6-d8b9-4cee-8ec4-39f92bacc0ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$25.00'])[2]/following::span[1]</value>
+      <webElementGuid>a597c71e-e599-4537-98c9-281c1ddf0030</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Items in Cart'])[1]/preceding::span[2]</value>
+      <webElementGuid>cc8a0269-232e-4984-84a4-a04dc347a136</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Montana Wind Jacket'])[1]/preceding::span[5]</value>
+      <webElementGuid>4e4b27ca-32cc-4af0-8ee0-cb7cf32511bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong/span</value>
+      <webElementGuid>c0b2a4fd-81ec-4243-854e-db16ac3e8396</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '$195.50' or . = '$195.50')]</value>
+      <webElementGuid>262c6ed6-1d43-4c0f-bb1c-517c1d3f768b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

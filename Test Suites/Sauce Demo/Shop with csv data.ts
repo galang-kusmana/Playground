@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Shop with csv data</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>6aa162cf-a0b7-49b1-b047-400dc75c3283</testSuiteGuid>
+   <testCaseLink>
+      <guid>1d31940a-8591-424e-86c3-4cf9b01a3f13</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sauce Demo/login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>82deb2a2-a140-4889-8122-ce63f94cbc7b</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Sauce Demo/buyer_csv</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>92c0eed8-6f5f-460b-b223-182f7e0b3bee</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>076446db-3c98-4045-b715-7f32de771dff</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>82deb2a2-a140-4889-8122-ce63f94cbc7b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>First</value>
+         <variableId>4108100e-7ea5-4f4c-a177-77695b8f0a3e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>82deb2a2-a140-4889-8122-ce63f94cbc7b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Last</value>
+         <variableId>2f59c64c-b35c-41e4-b86b-7969a8d3ecf7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>82deb2a2-a140-4889-8122-ce63f94cbc7b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Post</value>
+         <variableId>16604064-001f-48c4-b31e-285e1f10b3c1</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

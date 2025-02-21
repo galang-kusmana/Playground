@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>rekening_koran_pdf</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f38c8637-f720-4629-afa6-ffe63d2ce15c</testCaseGuid>
+</TestCaseEntity>

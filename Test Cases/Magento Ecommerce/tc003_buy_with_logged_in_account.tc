@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc003_buy_with_logged_in_account</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f913a20f-99c7-4a6d-a6cc-0a5b7f3396a1</testCaseGuid>
+</TestCaseEntity>

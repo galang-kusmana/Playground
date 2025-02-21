@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>rekening_koran_mt940</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f1c4bf3d-8185-4c7f-ad14-fba3dbada46e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>rekening_koran_xlsx</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>db6b632b-d4d1-4cca-a372-98d2c339ddf4</testCaseGuid>
+</TestCaseEntity>

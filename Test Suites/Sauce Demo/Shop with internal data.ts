@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Shop with internal data</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>95fcf105-f0c1-40b2-bf63-6be56435aea2</testSuiteGuid>
+   <testCaseLink>
+      <guid>6c740146-8807-434e-88cf-02fad2139a40</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sauce Demo/login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>db702c6a-6d49-4619-9243-3f2f881e77ab</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Sauce Demo/buyer_internal</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>92c0eed8-6f5f-460b-b223-182f7e0b3bee</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>076446db-3c98-4045-b715-7f32de771dff</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>db702c6a-6d49-4619-9243-3f2f881e77ab</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>first</value>
+         <variableId>4108100e-7ea5-4f4c-a177-77695b8f0a3e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>db702c6a-6d49-4619-9243-3f2f881e77ab</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>last</value>
+         <variableId>2f59c64c-b35c-41e4-b86b-7969a8d3ecf7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>db702c6a-6d49-4619-9243-3f2f881e77ab</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>post</value>
+         <variableId>16604064-001f-48c4-b31e-285e1f10b3c1</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc004_buy_without_account</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a6160c3b-8b7a-4aaa-85b6-5a31a53cf1bf</testCaseGuid>
+</TestCaseEntity>
